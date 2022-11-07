@@ -61,6 +61,7 @@ Partial Class FormMain
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
         Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.ToolStripStatusLabel2 = New System.Windows.Forms.ToolStripStatusLabel()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.退出XToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.文件FToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -103,7 +104,6 @@ Partial Class FormMain
         Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
         Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ToolStripStatusLabel2 = New System.Windows.Forms.ToolStripStatusLabel()
         CType(Me.DataGridView_Main, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -134,7 +134,7 @@ Partial Class FormMain
         Me.DataGridView_Main.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView_Main.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Column_Num, Me.Column_AddTime, Me.Column_Sourse, Me.Column_TypeFlag, Me.Column_TypeStr, Me.Column_TargetPath, Me.Column_New, Me.Column_NewFlag, Me.Column_SubStore, Me.Column_SubStoreFlag})
         Me.DataGridView_Main.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.DataGridView_Main.Location = New System.Drawing.Point(0, 54)
+        Me.DataGridView_Main.Location = New System.Drawing.Point(0, 55)
         Me.DataGridView_Main.MultiSelect = False
         Me.DataGridView_Main.Name = "DataGridView_Main"
         Me.DataGridView_Main.ReadOnly = True
@@ -142,7 +142,7 @@ Partial Class FormMain
         Me.DataGridView_Main.RowHeadersWidth = 51
         Me.DataGridView_Main.RowTemplate.Height = 27
         Me.DataGridView_Main.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.DataGridView_Main.Size = New System.Drawing.Size(778, 285)
+        Me.DataGridView_Main.Size = New System.Drawing.Size(778, 284)
         Me.DataGridView_Main.TabIndex = 0
         '
         'Column_Num
@@ -322,10 +322,10 @@ Partial Class FormMain
         Me.Panel3.Controls.Add(Me.Panel1)
         Me.Panel3.Controls.Add(Me.GroupBox1)
         Me.Panel3.Dock = System.Windows.Forms.DockStyle.Right
-        Me.Panel3.Location = New System.Drawing.Point(778, 27)
+        Me.Panel3.Location = New System.Drawing.Point(778, 28)
         Me.Panel3.MinimumSize = New System.Drawing.Size(200, 0)
         Me.Panel3.Name = "Panel3"
-        Me.Panel3.Size = New System.Drawing.Size(228, 501)
+        Me.Panel3.Size = New System.Drawing.Size(228, 500)
         Me.Panel3.TabIndex = 6
         '
         'Panel8
@@ -438,7 +438,7 @@ Partial Class FormMain
         Me.Panel6.Controls.Add(Me.Button1)
         Me.Panel6.Controls.Add(Me.PictureBox5)
         Me.Panel6.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.Panel6.Location = New System.Drawing.Point(0, 399)
+        Me.Panel6.Location = New System.Drawing.Point(0, 398)
         Me.Panel6.Name = "Panel6"
         Me.Panel6.Size = New System.Drawing.Size(228, 51)
         Me.Panel6.TabIndex = 8
@@ -469,7 +469,7 @@ Partial Class FormMain
         Me.GroupBox1.Controls.Add(Me.NumericUpDown1)
         Me.GroupBox1.Controls.Add(Me.CheckBox1)
         Me.GroupBox1.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.GroupBox1.Location = New System.Drawing.Point(0, 450)
+        Me.GroupBox1.Location = New System.Drawing.Point(0, 449)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(228, 51)
         Me.GroupBox1.TabIndex = 10
@@ -518,27 +518,33 @@ Partial Class FormMain
         Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(12, 19)
         Me.ToolStripStatusLabel1.Text = "."
         '
+        'ToolStripStatusLabel2
+        '
+        Me.ToolStripStatusLabel2.Name = "ToolStripStatusLabel2"
+        Me.ToolStripStatusLabel2.Size = New System.Drawing.Size(12, 19)
+        Me.ToolStripStatusLabel2.Text = "."
+        '
         'MenuStrip1
         '
         Me.MenuStrip1.ImageScalingSize = New System.Drawing.Size(20, 20)
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.退出XToolStripMenuItem1, Me.文件FToolStripMenuItem, Me.编辑EToolStripMenuItem, Me.工具TToolStripMenuItem, Me.帮助HToolStripMenuItem, Me.TimeToolStripMenuItem, Me.开机启动OToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(1006, 27)
+        Me.MenuStrip1.Size = New System.Drawing.Size(1006, 28)
         Me.MenuStrip1.TabIndex = 8
         Me.MenuStrip1.Text = "MenuStrip1"
         '
         '退出XToolStripMenuItem1
         '
         Me.退出XToolStripMenuItem1.Name = "退出XToolStripMenuItem1"
-        Me.退出XToolStripMenuItem1.Size = New System.Drawing.Size(73, 23)
+        Me.退出XToolStripMenuItem1.Size = New System.Drawing.Size(73, 24)
         Me.退出XToolStripMenuItem1.Text = "退出(&X)"
         '
         '文件FToolStripMenuItem
         '
         Me.文件FToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.新建NToolStripMenuItem, Me.打开OToolStripMenuItem, Me.toolStripSeparator, Me.保存SToolStripMenuItem, Me.另存为AToolStripMenuItem, Me.toolStripSeparator1, Me.打印PToolStripMenuItem, Me.打印预览VToolStripMenuItem, Me.toolStripSeparator2, Me.退出XToolStripMenuItem})
         Me.文件FToolStripMenuItem.Name = "文件FToolStripMenuItem"
-        Me.文件FToolStripMenuItem.Size = New System.Drawing.Size(71, 23)
+        Me.文件FToolStripMenuItem.Size = New System.Drawing.Size(71, 24)
         Me.文件FToolStripMenuItem.Text = "文件(&F)"
         Me.文件FToolStripMenuItem.Visible = False
         '
@@ -617,7 +623,7 @@ Partial Class FormMain
         '
         Me.编辑EToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.撤消UToolStripMenuItem, Me.重复RToolStripMenuItem, Me.toolStripSeparator3, Me.剪切TToolStripMenuItem, Me.复制CToolStripMenuItem, Me.粘贴PToolStripMenuItem, Me.toolStripSeparator4, Me.全选AToolStripMenuItem})
         Me.编辑EToolStripMenuItem.Name = "编辑EToolStripMenuItem"
-        Me.编辑EToolStripMenuItem.Size = New System.Drawing.Size(71, 23)
+        Me.编辑EToolStripMenuItem.Size = New System.Drawing.Size(71, 24)
         Me.编辑EToolStripMenuItem.Text = "编辑(&E)"
         Me.编辑EToolStripMenuItem.Visible = False
         '
@@ -682,7 +688,7 @@ Partial Class FormMain
         '
         Me.工具TToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.自定义CToolStripMenuItem, Me.选项OToolStripMenuItem})
         Me.工具TToolStripMenuItem.Name = "工具TToolStripMenuItem"
-        Me.工具TToolStripMenuItem.Size = New System.Drawing.Size(71, 23)
+        Me.工具TToolStripMenuItem.Size = New System.Drawing.Size(71, 24)
         Me.工具TToolStripMenuItem.Text = "工具(&T)"
         Me.工具TToolStripMenuItem.Visible = False
         '
@@ -702,7 +708,7 @@ Partial Class FormMain
         '
         Me.帮助HToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.内容CToolStripMenuItem, Me.索引IToolStripMenuItem, Me.搜索SToolStripMenuItem, Me.toolStripSeparator5, Me.关于AToolStripMenuItem})
         Me.帮助HToolStripMenuItem.Name = "帮助HToolStripMenuItem"
-        Me.帮助HToolStripMenuItem.Size = New System.Drawing.Size(74, 23)
+        Me.帮助HToolStripMenuItem.Size = New System.Drawing.Size(74, 24)
         Me.帮助HToolStripMenuItem.Text = "帮助(&H)"
         Me.帮助HToolStripMenuItem.Visible = False
         '
@@ -739,13 +745,13 @@ Partial Class FormMain
         '
         Me.TimeToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right
         Me.TimeToolStripMenuItem.Name = "TimeToolStripMenuItem"
-        Me.TimeToolStripMenuItem.Size = New System.Drawing.Size(57, 23)
+        Me.TimeToolStripMenuItem.Size = New System.Drawing.Size(57, 24)
         Me.TimeToolStripMenuItem.Text = "Time"
         '
         '开机启动OToolStripMenuItem
         '
         Me.开机启动OToolStripMenuItem.Name = "开机启动OToolStripMenuItem"
-        Me.开机启动OToolStripMenuItem.Size = New System.Drawing.Size(135, 23)
+        Me.开机启动OToolStripMenuItem.Size = New System.Drawing.Size(135, 24)
         Me.开机启动OToolStripMenuItem.Text = "设置开机启动(&O)"
         '
         'Panel4
@@ -753,7 +759,7 @@ Partial Class FormMain
         Me.Panel4.Controls.Add(Me.TextBox5)
         Me.Panel4.Controls.Add(Me.PictureBox4)
         Me.Panel4.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Panel4.Location = New System.Drawing.Point(0, 27)
+        Me.Panel4.Location = New System.Drawing.Point(0, 28)
         Me.Panel4.Name = "Panel4"
         Me.Panel4.Size = New System.Drawing.Size(778, 27)
         Me.Panel4.TabIndex = 9
@@ -823,12 +829,6 @@ Partial Class FormMain
         Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
         Me.ToolStripMenuItem2.Size = New System.Drawing.Size(108, 24)
         Me.ToolStripMenuItem2.Text = "关闭"
-        '
-        'ToolStripStatusLabel2
-        '
-        Me.ToolStripStatusLabel2.Name = "ToolStripStatusLabel2"
-        Me.ToolStripStatusLabel2.Size = New System.Drawing.Size(12, 19)
-        Me.ToolStripStatusLabel2.Text = "."
         '
         'FormMain
         '
