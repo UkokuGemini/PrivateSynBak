@@ -1,0 +1,47 @@
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Debug\PrivateSynBak.exe.config
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Debug\PrivateSynBak.exe
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Debug\PrivateSynBak.pdb
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Debug\PrivateSynBak.xml
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.AssemblyReference.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.Resources.resources
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.GenerateResource.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.CoreCompileInputs.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.exe
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.xml
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.pdb
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.FormMain.resources
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Debug\System.Data.SQLite.dll
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.CopyComplete
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Debug\PrivateSynBak.exe.config
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Debug\PrivateSynBak.exe
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Debug\PrivateSynBak.pdb
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Debug\PrivateSynBak.xml
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.AssemblyReference.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.ResolveComReference.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.FormMain.resources
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.Resources.resources
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.GenerateResource.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.CoreCompileInputs.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.CopyComplete
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.exe
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.xml
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Debug\PrivateSynBak.pdb
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Debug\PrivateSynBak.exe.config
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Debug\PrivateSynBak.exe
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Debug\PrivateSynBak.pdb
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Debug\PrivateSynBak.xml
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.AssemblyReference.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.ResolveComReference.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.FormMain.resources
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.Resources.resources
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.GenerateResource.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.CoreCompileInputs.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.vbproj.CopyComplete
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.exe
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.xml
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Debug\PrivateSynBak.pdb

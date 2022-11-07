@@ -1,0 +1,36 @@
+﻿/.vs/
+/# DevelopFiles/
+/# ResourseFiles/
+/# ManualRelease/
+/# Setting/
+
+/EndlessWorld_DarkGemLand/.vs/
+/EndlessWorld_DarkGemLand/obj/
+/EndlessWorld_DarkGemLand/publish/
+
+/$OldVersionUpdateTestPack/
+
+/EndlessWorld_DarkGemLand/bin/x86/
+/EndlessWorld_DarkGemLand/bin/x64/
+/EndlessWorld_DarkGemLand/bin/Debug/*
+/EndlessWorld_DarkGemLand/bin/Release/*
+
+!/EndlessWorld_DarkGemLand/bin/Debug/EndlessWorld_DarkGemLand.SysData.db
+!/EndlessWorld_DarkGemLand/bin/Debug/EndlessWorld_DarkGemLand.UserData.db
+!/EndlessWorld_DarkGemLand/bin/Release/EndlessWorld_DarkGemLand.exe
+!/EndlessWorld_DarkGemLand/bin/Release/EndlessWorld_DarkGemLand.SysData.db
+!/EndlessWorld_DarkGemLand/bin/Release/EndlessWorld_DarkGemLand.UserData.db
+
+/EndlessWorld_DarkGemLand-Installer/.vs/
+/EndlessWorld_DarkGemLand-Installer/Debug/
+/EndlessWorld_DarkGemLand-Installer/Release/
+/EndlessWorld_DarkGemLand-Installer/setup.exe
+
+*.vbproj.user
+*.pfx
+*.bak
+*.ink
+*.rar
+*.wav
+*.ico
+*.ini

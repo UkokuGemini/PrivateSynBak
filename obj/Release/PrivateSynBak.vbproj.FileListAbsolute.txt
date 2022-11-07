@@ -1,0 +1,79 @@
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Release\PrivateSynBak.exe.config
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Release\PrivateSynBak.exe
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Release\PrivateSynBak.pdb
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Release\PrivateSynBak.xml
+D:\GitHub\UkokuGemini\PrivateSynBak\bin\Release\System.Data.SQLite.dll
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.AssemblyReference.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.FormMain.resources
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.Resources.resources
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.GenerateResource.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CoreCompileInputs.cache
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CopyComplete
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.exe
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.xml
+D:\GitHub\UkokuGemini\PrivateSynBak\obj\Release\PrivateSynBak.pdb
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.exe.config
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.exe
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.pdb
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.xml
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.AssemblyReference.cache
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.FormMain.resources
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.Resources.resources
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.GenerateResource.cache
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CoreCompileInputs.cache
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CopyComplete
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.exe
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.xml
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.pdb
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\#My Application\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.ResolveComReference.cache
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.exe.config
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.exe
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.pdb
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\bin\Release\PrivateSynBak.xml
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.AssemblyReference.cache
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.ResolveComReference.cache
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.FormMain.resources
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.Resources.resources
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.GenerateResource.cache
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CoreCompileInputs.cache
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CopyComplete
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.exe
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.xml
+E:\#MyApplication\@Visual Studio Lite\PrivateSynBak\obj\Release\PrivateSynBak.pdb
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Release\PrivateSynBak.exe.config
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Release\PrivateSynBak.exe
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Release\PrivateSynBak.pdb
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\bin\Release\PrivateSynBak.xml
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.AssemblyReference.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.ResolveComReference.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.FormMain.resources
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.Resources.resources
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.GenerateResource.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CoreCompileInputs.cache
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CopyComplete
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.exe
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.xml
+E:\Users\UkokuGemini\Desktop\PrivateSynBak\obj\Release\PrivateSynBak.pdb
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Release\PrivateSynBak.exe.config
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Release\PrivateSynBak.exe
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Release\PrivateSynBak.pdb
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\bin\Release\PrivateSynBak.xml
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.AssemblyReference.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.SuggestedBindingRedirects.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.ResolveComReference.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.FormMain.resources
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.Resources.resources
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.GenerateResource.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CoreCompileInputs.cache
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.vbproj.CopyComplete
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.exe
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.xml
+E:\#MyApplication\@Visual Studio Lite\#NightCrow Desire\NightCrow工具\六期[2022.4+]\PrivateSynBak\obj\Release\PrivateSynBak.pdb
